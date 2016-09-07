@@ -2,7 +2,7 @@
 
 Create a html file that displayes the following code snippet:
 
-''' javascript
+``` javascript
 
  function foo() {
 	return 'foo';
@@ -13,4 +13,4 @@ function bar() {
 
 export {foo, bar};
 
-'''
+```
