@@ -14,3 +14,5 @@ function bar() {
 export {foo, bar};
 
 ```
+
+Use [w3schools](http://www.w3schools.com/html/) as a reference.
