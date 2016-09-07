@@ -9,3 +9,5 @@ Create a html file that displayes the following:
 | col 3 is |third 	|    $1 |
 
 For now it is not necessary to do the background color differences!
+
+Use [w3schools](http://www.w3schools.com/html/) as a reference.
